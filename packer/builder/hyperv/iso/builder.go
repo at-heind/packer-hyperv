@@ -17,7 +17,7 @@ import (
 	"github.com/mitchellh/packer/common"
 	"github.com/mitchellh/packer/packer"
 	"regexp"
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/pborman/uuid"
 	"strings"
 )
 

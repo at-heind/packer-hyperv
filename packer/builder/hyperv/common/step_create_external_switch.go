@@ -11,7 +11,7 @@ import (
 	"github.com/mitchellh/packer/packer"
 	"os/exec"
 	"strings"
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/pborman/uuid"
 )
 
 // This step creates switch for VM.
